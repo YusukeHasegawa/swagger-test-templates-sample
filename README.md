@@ -1,4 +1,7 @@
-# objectの比較に変更するために
+[swagger-test-templatesのサンプル](https://github.com/apigee-127/swagger-test-templates)
+
+
+
 
 change expect(body).to.`equal` to 
 expect(body).to.`eql`
